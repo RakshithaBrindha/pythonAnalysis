@@ -1,0 +1,15 @@
+Google LLC is an American multinational technology company focusing on search engine technology, online advertising, cloud computing, computer software, quantum computing, e-commerce, artificial intelligence, and consumer electronics.
+Hello!
+This is a text data. 
+Trying to remove new lines and also special characters.
+Hello!
+This is a text data. 
+Trying to remove new lines and also special characters.
+You are currently studying Computer Science, Mathematics, Statistics, Physics, Business Information Systems, Economics, or comparable subjects (>1 years to graduate)
+You know how to handle large amounts of data using various tools – all programming languages welcome, especially Python, R, SQL, terraform, HTML and Java or JavaScript
+PowerBI and Mendix or Low-Code knowledge is a plus, but not required
+Understanding of big data analytics (e.g., AWS-based landscapes, Snowflake) and knowledge of Azure ML is a plus
+Knowledge about webservice technologies (REST, MicroServices) is a plus
+Eager to learn and discover new technologies such as Mendix, Snowflake, etc.
+Good at analytical thinking, result-oriented, team-oriented, open-minded
+Proficiency in English (written and spoken). Hi Hi Hi Hi Hi Hi
