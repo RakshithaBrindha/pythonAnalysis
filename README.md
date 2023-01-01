@@ -1,4 +1,4 @@
-# pythonAnalysis
+# Analysis using Python
 
 ## Project 1: Covid Data Analysis: 
 - Cleaning, Processing and Analysing the covid data using Python Pandas
