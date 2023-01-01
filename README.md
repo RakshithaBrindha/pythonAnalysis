@@ -7,3 +7,8 @@ Data Analysing :
 - Trends of 8 countries having covid cases above 100000
 
 Data Set: https://ourworldindata.org/covid-deaths
+
+## Project 2: Word Cloud:
+- Frequent words visualization 
+
+This program creates a bar chart and a word cloud to determine the most freqeuent words found in a txt file.
